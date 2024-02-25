@@ -1,7 +1,7 @@
 {
   "name": "@1mustyz/react-component",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/react-component"
+    "@1mustyz:registry": "https://npm.pkg.github.com"
   },
   "version": "0.1.0",
   "description": "A simple template for a custom React component library",
